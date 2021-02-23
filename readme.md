@@ -91,7 +91,8 @@
 
 ### Servers
 - [Discord API](https://discord.gg/discord-api) - Discussion, support, and more related to Discord's API.
-- [Discord Developers](https://discord.gg/events) - News and announcements related to Official Discord Events.
+- [Discord Developers](https://discord.gg/discord-developers) - News and announcements related to Official Discord Developers.
+- [Discord TownHall](https://discord.gg/discord-townhall) - Official Discord server!
 - [Discord Testers](https://discord.gg/discord-testers) - Test, improve, and report Discord bugs.
 
 ### Links
