@@ -19,6 +19,7 @@
 
 ## 🤖 Bots
 **[Back To Top](#-contents)**
+- [Jarvis](https://jarvisdev.xyz) - Best multifunctional Discord bot for all your needs!
 - [Mee6](https://mee6.xyz) - The most popular bot on Discord, has many features useful for everyday Discord servers.
 - [Dyno](https://dyno.gg) - Web dashboard, music, advanced moderation, and custom commands.
 - [Vexera](https://vexera.io) - High quality music bot with a few other features.
@@ -90,8 +91,7 @@
 
 ### Servers
 - [Discord API](https://discord.gg/discord-api) - Discussion, support, and more related to Discord's API.
-- [Discord Events](https://discord.gg/events) - News and announcements related to Official Discord Events.
-- [Discord Feedback](https://discord.gg/discord-feedback) - Give and vote on feedback about Discord.
+- [Discord Developers](https://discord.gg/events) - News and announcements related to Official Discord Events.
 - [Discord Testers](https://discord.gg/discord-testers) - Test, improve, and report Discord bugs.
 
 ### Links
